@@ -13,6 +13,6 @@ among others. I recommend:
 
 1. Definition and motivation of Data Science. Importance of the scientific
    process, modelling and visualization of the information.
-2. Python Language, Numpy and Pandas for Data Science. 
-3. Web Scrapping
-
+2. Python Language, Numpy, Pandas and Matplotlib for Data Science. 
+3. Web Scrapping using Beautiful Soup and Regular Expressions. 
+4. kNN Regression and Simple Linear Regression
